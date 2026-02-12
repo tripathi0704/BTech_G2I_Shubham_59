@@ -13,8 +13,9 @@ int main()
         printf(" great number is b %d", b);
 
     }
-    else (c >= a && c >= b)
+    else 
     {
         printf(" great number is c %d" ,c);
     }
+
 }
